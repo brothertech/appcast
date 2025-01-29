@@ -9,7 +9,7 @@
             <description>Bug fixes for Android</description>
             <pubDate>Mon, 29 Jan 2024 12:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.abiodun.postscholar" 
-                       sparkle:version="1.0.0+2"
+                       sparkle:version="1.0.0+3"
                        sparkle:os="android" />
         </item>
 
@@ -19,7 +19,7 @@
             <description>New iOS features</description>
             <pubDate>Mon, 29 Jan 2024 12:00:00 +0000</pubDate>
             <enclosure url="#" 
-                       sparkle:version="1.0.0+2"
+                       sparkle:version="1.0.0+3"
                        sparkle:os="ios" />
         </item>
 
