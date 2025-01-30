@@ -1,30 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>App Updates</title>
-        <link>http://example.com</link> <!-- Add a <link> element here -->
-        <description>Latest updates for the app</description> <!-- Optional but recommended -->
-
-        <!-- Android Update -->
+        <title>Payeelord- Appcast</title>
         <item>
-            <title>Android Version 1.0.0+3</title>
-            <description>Bug fixes for Android</description>
-            <link>http://example.com/android</link> <!-- Add a <link> element here -->
-            <pubDate>Mon, 29 Jan 2024 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.abiodun.postscholar" 
-                       sparkle:version="1.0.0+3"
-                       sparkle:os="android" />
-        </item>
-
-        <!-- iOS Update -->
-        <item>
-            <title>iOS Version 1.0.0+3</title>
-            <description>New iOS features</description>
-            <link>http://example.com/ios</link> <!-- Add a <link> element here -->
-            <pubDate>Mon, 29 Jan 2024 12:00:00 +0000</pubDate>
-            <enclosure url="#" 
-                       sparkle:version="1.0.0+3"
-                       sparkle:os="ios" />
+            <title>Version 1.15.0</title>
+            <description>Minor updates and improvements.</description>
+            <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.abiodun.postscholar" sparkle:version="1.15.0" sparkle:os="android" />
         </item>
     </channel>
 </rss>
